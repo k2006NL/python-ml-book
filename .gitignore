@@ -1,0 +1,17 @@
+﻿# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.dat
+*.pkl
+/data/
+
+# Environment
+.env
+.venv/
+env/
